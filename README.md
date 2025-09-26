@@ -23,4 +23,4 @@ Today I learned and practiced **Test Design Techniques** that help in creating e
 
 ✅ These techniques improve **test coverage** and reduce redundant test cases.  
 
-📂 Full notes: [day_4_notes.pdf](./day_4_notes.pdf)
+📂 Full notes: [day_4_notes.pdf](day4.1.pdf)
